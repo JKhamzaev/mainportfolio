@@ -24,7 +24,7 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               CS student{" "}
             </span>
-            at the University of Rochester. An ambitious software developer with a unique background, strong technical skills, and a proven ability to collaborate, communicate effectively, and solve problems analytically.
+            at the University of Rochester from Uzbekistan. An ambitious software developer with a unique background, strong technical skills, and a proven ability to collaborate, communicate effectively, and solve problems analytically.
           </p>
           <Link
             to="projects"
